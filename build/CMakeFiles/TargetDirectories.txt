@@ -1,0 +1,3 @@
+/home/mical/HttpSevver/HttpServer-C/build/CMakeFiles/a.out.dir
+/home/mical/HttpSevver/HttpServer-C/build/CMakeFiles/edit_cache.dir
+/home/mical/HttpSevver/HttpServer-C/build/CMakeFiles/rebuild_cache.dir
